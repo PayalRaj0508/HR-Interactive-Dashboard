@@ -1,6 +1,5 @@
 # HR-Interactive-Dashboard
 "An interactive HR dashboard created in Excel to analyze key HR metrics."
-# HR Interactive Dashboard
 
 This repository contains an interactive HR dashboard built in Microsoft Excel. It is designed to help HR professionals track and analyze key metrics, such as employee performance, sick leaves, promotions, and more.
 
